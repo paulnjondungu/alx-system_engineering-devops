@@ -1,1 +1,1 @@
-shell-basics-readme
+This repository is about shell-basics
